@@ -10,7 +10,7 @@
 
 <h3 align="center">Education</h3>
 
-- Master's of Science and Information Technology at University of Quebec
+- Master's of Science and Information Technology at University of Quebec in Outaouais 
 - Graduate Diploma in Software Engineering at Pontifical Catholic University of Minas Gerais
 - Undergraduate degree in Telematics at Federal Institute of Education, Science and Technology of Ceará
 
@@ -29,7 +29,8 @@
 <h3 align="center">Conferences and talks</h3>
 
 - [Ottawa Open Source Networking Meetup 2018: OpenDaylight 101](https://www.cengn.ca/information-centre/news/events/nov-2018-open-source-meetup/)
-- [Open Networking Summit 2016: Intent-based VPNs and its future in SDN](http://events17.linuxfoundation.org/events/archive/2016/open-networking-summit-north-america)
+- [Open Networking Summit 2016: Intent-based VPNs and its future in SDN](https://ons2016.sched.com/event/67oC/intent-based-vpns-and-its-future-in-sdn-icaro-camelo-inocybe-technologies)
+- [Open Networking Summit 2016: Intent-based VPNs and its future in SDN](https://ons2016.sched.com/event/67oC/intent-based-vpns-and-its-future-in-sdn-icaro-camelo-inocybe-technologies)
 - [Pycon Canada 2015: Networks and innovation: a lot of programming inside](https://2015.pycon.ca/en/schedule/)
 
 <h3 align="center">Research</h3>
