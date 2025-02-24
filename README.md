@@ -34,9 +34,9 @@
 
 <h3 align="center">📝 Personal projects</h3>
 
+- [Abalone regression](https://github.com/icarocamelo/AbaloneRegression): This repository uses the Abalone dataset to work on a regression problem to predict the age of abalones. Models used: Linear Regression, Decision Tree, and Random Forest.
+- [Saude++ ](https://github.com/icarocamelo/software-engineering-postgraduate/tree/master/tcc-final-project): A public health management system in a smart city.
 - [Predictive maintenance](https://github.com/icarocamelo/Elements-of-Applied-AI): This project leverages machine learning models to forecast when a server is about to fail by analyzing its CPU usage. This allows for predictive maintenance and avoids costs associated with server failures and services disruption.
-- [Abalone regression](https://github.com/icarocamelo/AbaloneRegression): This repository uses the Abalone dataset to work on a regression problem to predict the age of abalones. Models used: Linear Regression, Decision Tree, and Random Forest
-- [Saude++ - Developing a public health management system in a smart city](https://github.com/icarocamelo/software-engineering-postgraduate/tree/master/tcc-final-project)
 
   
 <h3 align="center">🔬 Research</h3>
