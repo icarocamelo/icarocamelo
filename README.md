@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm lcaro Camelo</h1>
 <h3 align="center">Software engineer | Cloud-native development | Observability | Large scale systems</h3>
-
+<!--
+> I have extensive background in software development, with a strong focus on cloud-native platforms, observability, machine learning, and network automation.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=icarocamelo&label=Profile%20views&color=0e75b6&style=flat" alt="icarocamelo" /> </p>
 
 <!--
@@ -16,8 +17,8 @@
 
 <h3 align="center">💻 Open source and community contributions</h3>
 
-- [OpenDaylight Network Intent Composition official committer](https://lf-opendaylight.atlassian.net/wiki/spaces/ODL/pages/12525211/Network+Intent+Composition)
-- Source code contributions: [here](https://git.opendaylight.org/gerrit/q/owner:icamelo%2540inocybe.com) and [here](https://git.opendaylight.org/gerrit/q/owner:icarorvc%2540gmail.com)
+- [Former OpenDaylight Network Intent Composition elected committer and reviewer](https://lf-opendaylight.atlassian.net/wiki/spaces/ODL/pages/12525211/Network+Intent+Composition)
+- Code contributions: [here](https://git.opendaylight.org/gerrit/q/owner:icamelo%2540inocybe.com) and [here](https://git.opendaylight.org/gerrit/q/owner:icarorvc%2540gmail.com)
 - [Mentor at 2015 Ladies Learning Code Quebec city](https://drive.google.com/file/d/1F56EebAaMsM73sU80DF5bBuugHlz85kQ/view?usp=sharing)
 
 <h3 align="center">🗣️ Conferences and talks</h3>
@@ -38,7 +39,7 @@
 - [Saude++ ](https://github.com/icarocamelo/software-engineering-postgraduate/tree/master/tcc-final-project): A public health management system in a smart city.
 - [Predictive maintenance](https://github.com/icarocamelo/Elements-of-Applied-AI): This project leverages machine learning models to forecast when a server is about to fail by analyzing its CPU usage. This allows for predictive maintenance and avoids costs associated with server failures and services disruption.
 
-  
+
 <h3 align="center">🔬 Research</h3>
 
 - [Alumni: CREATE Uninhabited aircraft systems Training, Innovation and Leadership Initiative](https://carleton.ca/utili/icaro-ramon-veras-camelo/)
