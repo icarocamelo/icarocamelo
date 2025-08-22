@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm lcaro Camelo</h1>
-<h3 align="center">Software engineer | Cloud-native development | Observability | Large scale systems</h3>
-<!--
+<h3 align="center">Cloud-native development | Observability | Large scale systems | Machine learning </h3>
+
 > I have extensive background in software development, with a strong focus on cloud-native platforms, observability, machine learning, and network automation.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=icarocamelo&label=Profile%20views&color=0e75b6&style=flat" alt="icarocamelo" /> </p>
 
@@ -41,7 +41,7 @@
 
 
 <h3 align="center">🔬 Research</h3>
-
+- [Thesis - Convolutional neural network-based object detection with limited embedded computational resources](https://di.uqo.ca/id/eprint/1683/)
 - [Alumni: CREATE Uninhabited aircraft systems Training, Innovation and Leadership Initiative](https://carleton.ca/utili/icaro-ramon-veras-camelo/)
 
 <h3 align="center">📝 Papers</h3>
