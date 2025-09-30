@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm lcaro Camelo</h1>
-<h3 align="center">Cloud-native development | Software-defined Netweorks | Machine learning | Observability </h3>
+<h3 align="center">Cloud-native development | Software-defined Networks | Machine learning | Observability </h3>
 
 <!-- p align="center">I have extensive background in software development, with a strong focus on cloud-native platforms, observability, machine learning, and network automation. </p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=icarocamelo&label=Profile%20views&color=0e75b6&style=flat" alt="icarocamelo" /> </p>
