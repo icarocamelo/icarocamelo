@@ -15,6 +15,24 @@
 - Graduate Diploma in Software Engineering at Pontifical Catholic University of Minas Gerais
 - Undergraduate degree in Telematics at Federal Institute of Education, Science and Technology of Ceará
 
+<h3 align="center">🔬 Research</h3>
+
+- [Convolutional neural network-based object detection with limited embedded computational resources](https://di.uqo.ca/id/eprint/1683/)
+- [Alumni: CREATE Uninhabited aircraft systems Training, Innovation and Leadership Initiative](https://carleton.ca/utili/icaro-ramon-veras-camelo/)
+
+<h3 align="center">📝 Papers/Posters</h3>
+
+- [Evaluating Compact Convolutional Neural Networks for Object Recognition Using Sensor Data on Resource-Constrained Devices](https://www.mdpi.com/2673-4591/58/1/6)
+- [Path protection and Failover strategies in SDN networks](http://events17.linuxfoundation.org/sites/events/files/slides/Path%20protection%20and%20failover%20strategies%20in%20SDN%20networks.pdf)
+- [Intent-based VPN and its future in SDN](http://events17.linuxfoundation.org/sites/events/files/slides/ONS_Intent-based%20VPNs%20and%20its%20future%20in%20SDN.pdf)
+- [Capstone paper (in Portuguese): Test-driven development: Benefits, techniques and limitations](https://drive.google.com/file/d/0BximnxP_c76nNjliMTk0NWYtNTYwOS00MDA3LWI0MGUtZmU2MWIxZWQ1NzAz/view?usp=sharing&resourcekey=0-rkcJU1jlpusb_oXyDg6UAQ)
+
+
+<h3 align="center">📚 Publications</h3>
+
+- [Co-author of OpenDaylight Cookbook](https://www.packtpub.com/en-ca/product/opendaylight-cookbook-9781786469052)
+- [Technical reviewer of OpenFlow Cookbook](https://www.packtpub.com/en-us/product/openflow-cookbook-9781783987948)
+  
 <h3 align="center">💻 Open source and community contributions</h3>
 
 - [Former OpenDaylight Network Intent Composition elected committer and reviewer](https://lf-opendaylight.atlassian.net/wiki/spaces/ODL/pages/12525211/Network+Intent+Composition)
@@ -28,10 +46,6 @@
 - [Open Networking Summit 2016: Intent-based VPNs and its future in SDN](http://events17.linuxfoundation.org/sites/events/files/slides/ONS_Intent-based%2520VPNs%2520and%2520its%2520future%2520in%2520SDN.pdf&ved=2ahUKEwin_-7qu9aLAxWq3wIHHQv_OD4QFnoECCMQAQ&usg=AOvVaw19vhlcUXNQwD8P46GGQnnj)
 - [Pycon Canada 2015: Networks and innovation: a lot of programming inside](https://2015.pycon.ca/en/schedule/)
 
-<h3 align="center">📚 Publications</h3>
-
-- [Co-author of OpenDaylight Cookbook](https://www.packtpub.com/en-ca/product/opendaylight-cookbook-9781786469052)
-- [Technical reviewer of OpenFlow Cookbook](https://www.packtpub.com/en-us/product/openflow-cookbook-9781783987948)
 
 <h3 align="center">📝 Personal projects</h3>
 
@@ -39,17 +53,6 @@
 - [Saude++ ](https://github.com/icarocamelo/software-engineering-postgraduate/tree/master/tcc-final-project): A public health management system in a smart city.
 - [Predictive maintenance](https://github.com/icarocamelo/Elements-of-Applied-AI): This project leverages machine learning models to forecast when a server is about to fail by analyzing its CPU usage. This allows for predictive maintenance and avoids costs associated with server failures and services disruption.
 
-
-<h3 align="center">🔬 Research</h3>
-
-- [Convolutional neural network-based object detection with limited embedded computational resources](https://di.uqo.ca/id/eprint/1683/)
-- [Alumni: CREATE Uninhabited aircraft systems Training, Innovation and Leadership Initiative](https://carleton.ca/utili/icaro-ramon-veras-camelo/)
-
-<h3 align="center">📝 Papers</h3>
-
-- [Evaluating Compact Convolutional Neural Networks for Object Recognition Using Sensor Data on Resource-Constrained Devices](https://www.mdpi.com/2673-4591/58/1/6)
-- [Path protection and Failover strategies in SDN networks](http://events17.linuxfoundation.org/sites/events/files/slides/Path%20protection%20and%20failover%20strategies%20in%20SDN%20networks.pdf)
-- [Capstone paper (in Portuguese): Test-driven development: Benefits, techniques and limitations](https://drive.google.com/file/d/0BximnxP_c76nNjliMTk0NWYtNTYwOS00MDA3LWI0MGUtZmU2MWIxZWQ1NzAz/view?usp=sharing&resourcekey=0-rkcJU1jlpusb_oXyDg6UAQ)
 
 
 
