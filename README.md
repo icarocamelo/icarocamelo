@@ -45,6 +45,7 @@
 - [Open Networking Summit 2016: Path protection and failover strategies in SDN](http://events17.linuxfoundation.org/sites/events/files/slides/Path%2520protection%2520and%2520failover%2520strategies%2520in%2520SDN%2520networks.pdf&ved=2ahUKEwiHgfHAvNaLAxVdzAIHHeK_Ag8QFnoECCgQAQ&usg=AOvVaw3lLkAENmY4vYTtW4qb0qLH)
 - [Open Networking Summit 2016: Intent-based VPNs and its future in SDN](http://events17.linuxfoundation.org/sites/events/files/slides/ONS_Intent-based%2520VPNs%2520and%2520its%2520future%2520in%2520SDN.pdf&ved=2ahUKEwin_-7qu9aLAxWq3wIHHQv_OD4QFnoECCMQAQ&usg=AOvVaw19vhlcUXNQwD8P46GGQnnj)
 - [Pycon Canada 2015: Networks and innovation: a lot of programming inside](https://2015.pycon.ca/en/schedule/)
+- [Université Laval - Gestion du cycle de vie d’un site Web dans Azure](https://github.com/icarocamelo/icarocamelo/raw/refs/heads/main/2015-02-Gestionducycledevied%E2%80%99unsiteWebdansAzure-Universit%C3%A9Laval.pdf)
 
 
 <h3 align="center">📝 Personal projects</h3>
