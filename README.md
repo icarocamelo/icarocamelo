@@ -25,7 +25,7 @@
 - [Evaluating Compact Convolutional Neural Networks for Object Recognition Using Sensor Data on Resource-Constrained Devices](https://www.mdpi.com/2673-4591/58/1/6)
 - [Path protection and Failover strategies in SDN networks](http://events17.linuxfoundation.org/sites/events/files/slides/Path%20protection%20and%20failover%20strategies%20in%20SDN%20networks.pdf)
 - [Intent-based VPN and its future in SDN](http://events17.linuxfoundation.org/sites/events/files/slides/ONS_Intent-based%20VPNs%20and%20its%20future%20in%20SDN.pdf)
-- [Capstone paper (in Portuguese): Test-driven development: Benefits, techniques and limitations](https://drive.google.com/file/d/0BximnxP_c76nNjliMTk0NWYtNTYwOS00MDA3LWI0MGUtZmU2MWIxZWQ1NzAz/view?usp=sharing&resourcekey=0-rkcJU1jlpusb_oXyDg6UAQ)
+- [Test-driven development: Benefits, techniques and limitations (PT)](https://drive.google.com/file/d/0BximnxP_c76nNjliMTk0NWYtNTYwOS00MDA3LWI0MGUtZmU2MWIxZWQ1NzAz/view?usp=sharing&resourcekey=0-rkcJU1jlpusb_oXyDg6UAQ)
 
 
 <h3 align="center">📚 Publications</h3>
@@ -37,7 +37,7 @@
 
 - [Former OpenDaylight Network Intent Composition elected committer and reviewer](https://lf-opendaylight.atlassian.net/wiki/spaces/ODL/pages/12525211/Network+Intent+Composition)
 - Code contributions: [here](https://git.opendaylight.org/gerrit/q/owner:icamelo%2540inocybe.com) and [here](https://git.opendaylight.org/gerrit/q/owner:icarorvc%2540gmail.com)
-- [Mentor at 2015 Ladies Learning Code Quebec city](https://drive.google.com/file/d/1F56EebAaMsM73sU80DF5bBuugHlz85kQ/view?usp=sharing)
+- [Mentor at Ladies Learning Code Quebec city](https://drive.google.com/file/d/1F56EebAaMsM73sU80DF5bBuugHlz85kQ/view?usp=sharing)
 
 <h3 align="center">🗣️ Conferences and talks</h3>
 
