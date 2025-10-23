@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm lcaro Camelo</h1>
-<h3 align="center">Cloud-native development | Software-defined Networks | Machine learning | Observability </h3>
+<h3 align="center">Cloud-native development | Software-defined Networks | Observability | Machine learning </h3>
 
 <!-- p align="center">I have extensive background in software development, with a strong focus on cloud-native platforms, observability, machine learning, and network automation. </p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=icarocamelo&label=Profile%20views&color=0e75b6&style=flat" alt="icarocamelo" /> </p>
@@ -35,7 +35,7 @@
   
 <h3 align="center">💻 Open source and community contributions</h3>
 
-- [Former OpenDaylight Network Intent Composition elected committer and reviewer](https://lf-opendaylight.atlassian.net/wiki/spaces/ODL/pages/12525211/Network+Intent+Composition)
+- [OpenDaylight Network Intent Composition elected committer and reviewer](https://lf-opendaylight.atlassian.net/wiki/spaces/ODL/pages/12525211/Network+Intent+Composition)
 - Code contributions: [here](https://git.opendaylight.org/gerrit/q/owner:icamelo%2540inocybe.com) and [here](https://git.opendaylight.org/gerrit/q/owner:icarorvc%2540gmail.com)
 - [Mentor at Ladies Learning Code Quebec city](https://drive.google.com/file/d/1F56EebAaMsM73sU80DF5bBuugHlz85kQ/view?usp=sharing)
 
@@ -47,7 +47,14 @@
 - [Pycon Canada 2015: Networks and innovation: a lot of programming inside](https://2015.pycon.ca/en/schedule/)
 - [Université Laval - Gestion du cycle de vie d’un site Web dans Azure](https://github.com/icarocamelo/icarocamelo/raw/refs/heads/main/2015-02-Gestionducycledevied%E2%80%99unsiteWebdansAzure-Universit%C3%A9Laval.pdf)
 
+<h3 align="center">📜 Certifications </h3>
 
+- Microsoft Certified Solutions Associate: Web Applications (Charter)*
+- Microsoft Certified Solutions Developer: App Builder (Charter)*
+- Microsoft Certified Solutions Developer: Web Applications
+- Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3
+- Microsoft Certified Professional: Microsoft Certified Professional
+  
 <h3 align="center">📝 Personal projects</h3>
 
 - [Abalone regression](https://github.com/icarocamelo/AbaloneRegression): This repository uses the Abalone dataset to work on a regression problem to predict the age of abalones. Models used: Linear Regression, Decision Tree, and Random Forest.
