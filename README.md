@@ -37,6 +37,10 @@
 
 - [OpenDaylight Network Intent Composition elected committer and reviewer](https://lf-opendaylight.atlassian.net/wiki/spaces/ODL/pages/12525211/Network+Intent+Composition)
 - Code contributions: [here](https://git.opendaylight.org/gerrit/q/owner:icamelo%2540inocybe.com) and [here](https://git.opendaylight.org/gerrit/q/owner:icarorvc%2540gmail.com)
+- Kubernetes contributions
+     - [Pod Restructuring: Create "Multi-Container Pods" documentation page](https://github.com/kubernetes/website/issues/51422#issuecomment-3460363987)
+- Cloud-native test initiative
+     - [Logging to Stdout/Stderr: Best Practice or Burden? #2333](https://github.com/lfn-cnti/testsuite/discussions/2323#discussioncomment-14605200) 
 - [Mentor at Ladies Learning Code Quebec city](https://drive.google.com/file/d/1F56EebAaMsM73sU80DF5bBuugHlz85kQ/view?usp=sharing)
 
 <h3 align="center">🗣️ Conferences and talks</h3>
