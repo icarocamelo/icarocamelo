@@ -25,7 +25,7 @@
 - [Evaluating Compact Convolutional Neural Networks for Object Recognition Using Sensor Data on Resource-Constrained Devices](https://www.mdpi.com/2673-4591/58/1/6)
 - [Path protection and Failover strategies in SDN networks](http://events17.linuxfoundation.org/sites/events/files/slides/Path%20protection%20and%20failover%20strategies%20in%20SDN%20networks.pdf)
 - [Intent-based VPN and its future in SDN](http://events17.linuxfoundation.org/sites/events/files/slides/ONS_Intent-based%20VPNs%20and%20its%20future%20in%20SDN.pdf)
-- [Test-driven development: Benefits, techniques and limitations (PT)](https://drive.google.com/file/d/0BximnxP_c76nNjliMTk0NWYtNTYwOS00MDA3LWI0MGUtZmU2MWIxZWQ1NzAz/view?usp=sharing&resourcekey=0-rkcJU1jlpusb_oXyDg6UAQ)
+- [Test-driven development: Benefits, techniques and limitations (PT)](./infobrasil-2010-attestation.pdf)
 
 
 <h3 align="center">📚 Publications</h3>
@@ -48,8 +48,9 @@
 - [Ottawa Open Source Networking Meetup 2018: OpenDaylight 101](https://www.cengn.ca/information-centre/news/events/nov-2018-open-source-meetup/)
 - [Open Networking Summit 2016: Path protection and failover strategies in SDN](http://events17.linuxfoundation.org/sites/events/files/slides/Path%2520protection%2520and%2520failover%2520strategies%2520in%2520SDN%2520networks.pdf&ved=2ahUKEwiHgfHAvNaLAxVdzAIHHeK_Ag8QFnoECCgQAQ&usg=AOvVaw3lLkAENmY4vYTtW4qb0qLH)
 - [Open Networking Summit 2016: Intent-based VPNs and its future in SDN](http://events17.linuxfoundation.org/sites/events/files/slides/ONS_Intent-based%2520VPNs%2520and%2520its%2520future%2520in%2520SDN.pdf&ved=2ahUKEwin_-7qu9aLAxWq3wIHHQv_OD4QFnoECCMQAQ&usg=AOvVaw19vhlcUXNQwD8P46GGQnnj)
-- [Pycon Canada 2015: Networks and innovation: a lot of programming inside](https://2015.pycon.ca/en/schedule/)
+- [Pycon Canada 2015: Networks and innovation: a lot of programming inside](https://2015.pycon.ca/en/schedule/53)
 - [Université Laval - Gestion du cycle de vie d’un site Web dans Azure](https://github.com/icarocamelo/icarocamelo/raw/refs/heads/main/2015-02-Gestionducycledevied%E2%80%99unsiteWebdansAzure-Universit%C3%A9Laval.pdf)
+- 
 
 <h3 align="center">📜 Certifications </h3>
 
