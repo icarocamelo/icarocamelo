@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm lcaro Camelo</h1>
-<h3 align="center">Cloud-native development | Software-defined Networks | Observability | Machine learning </h3>
+<h3 align="center">Cloud-native engineering | Software-defined Networks | Observability | Machine learning </h3>
 
 <!-- p align="center">I have extensive background in software development, with a strong focus on cloud-native platforms, observability, machine learning, and network automation. </p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=icarocamelo&label=Profile%20views&color=0e75b6&style=flat" alt="icarocamelo" /> </p>
@@ -12,13 +12,13 @@
 <h3 align="center">🎓 Education</h3>
 
 - Master's of Science and Information Technology at University of Quebec in Outaouais
-- Graduate Diploma in Software Engineering at Pontifical Catholic University of Minas Gerais
+- Graduate Specialization in Software Engineering at Pontifical Catholic University of Minas Gerais
 - Undergraduate degree in Telematics at Federal Institute of Education, Science and Technology of Ceará
 
 <h3 align="center">🔬 Research</h3>
 
 - [Convolutional neural network-based object detection with limited embedded computational resources](https://di.uqo.ca/id/eprint/1683/)
-- [Alumni: CREATE Uninhabited aircraft systems Training, Innovation and Leadership Initiative](https://carleton.ca/utili/icaro-ramon-veras-camelo/)
+- [Alumni: NSERC CREATE Uninhabited aircraft systems Training, Innovation and Leadership Initiative](https://carleton.ca/utili/icaro-ramon-veras-camelo/)
 
 <h3 align="center">📝 Papers/Posters</h3>
 
