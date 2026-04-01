@@ -35,14 +35,14 @@
   
 <h3 align="center">💻 Open source and community contributions</h3>
 
+- [Cloud Native Telecom Initiative](https://lfnetworking.org/cloud-native-telecom-initiative/)
+  - [fix: robustness of image name parsing and ensures version stability](https://github.com/lfn-cnti/testsuite/pull/2363)
+  - [feat: add Trivy workflow for vulnerability scanning](https://github.com/lfn-cnti/testsuite/pull/2364)
+  - [Logging to Stdout/Stderr: Best Practice or Burden? #2333](https://github.com/lfn-cnti/testsuite/discussions/2323#discussioncomment-14605200)
+- [Kubernetes contributions](https://kubernetes.io/)
+  - [Pod Restructuring: Create "Multi-Container Pods" documentation page](https://github.com/kubernetes/website/issues/51422#issuecomment-3460363987)
 - [OpenDaylight Network Intent Composition elected committer and reviewer](https://lf-opendaylight.atlassian.net/wiki/spaces/ODL/pages/12525211/Network+Intent+Composition)
-- Code contributions: [here](https://git.opendaylight.org/gerrit/q/owner:icamelo%2540inocybe.com) and [here](https://git.opendaylight.org/gerrit/q/owner:icarorvc%2540gmail.com)
-- Kubernetes contributions
-     - [Pod Restructuring: Create "Multi-Container Pods" documentation page](https://github.com/kubernetes/website/issues/51422#issuecomment-3460363987)
-- Cloud Native Telecom Initiative (CNTi)
-     - [fix: robustness of image name parsing and ensures version stability](https://github.com/lfn-cnti/testsuite/pull/2363)
-     - [feat: add Trivy workflow for vulnerability scanning](https://github.com/lfn-cnti/testsuite/pull/2364)
-     - [Logging to Stdout/Stderr: Best Practice or Burden? #2333](https://github.com/lfn-cnti/testsuite/discussions/2323#discussioncomment-14605200)
+  - Code contributions: [here](https://git.opendaylight.org/gerrit/q/owner:icamelo%2540inocybe.com) and [here](https://git.opendaylight.org/gerrit/q/owner:icarorvc%2540gmail.com)
 - [Mentor at Ladies Learning Code Quebec city](https://drive.google.com/file/d/1F56EebAaMsM73sU80DF5bBuugHlz85kQ/view?usp=sharing)
 
 <h3 align="center">🗣️ Conferences and talks</h3>
@@ -52,7 +52,6 @@
 - [Open Networking Summit 2016: Intent-based VPNs and its future in SDN](http://events17.linuxfoundation.org/sites/events/files/slides/ONS_Intent-based%2520VPNs%2520and%2520its%2520future%2520in%2520SDN.pdf&ved=2ahUKEwin_-7qu9aLAxWq3wIHHQv_OD4QFnoECCMQAQ&usg=AOvVaw19vhlcUXNQwD8P46GGQnnj)
 - [Pycon Canada 2015: Networks and innovation: a lot of programming inside](https://2015.pycon.ca/en/schedule/43)
 - [Université Laval - Gestion du cycle de vie d’un site Web dans Azure](https://github.com/icarocamelo/icarocamelo/raw/refs/heads/main/2015-02-Gestionducycledevied%E2%80%99unsiteWebdansAzure-Universit%C3%A9Laval.pdf)
-- 
 
 <h3 align="center">📜 Certifications </h3>
 
